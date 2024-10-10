@@ -13,26 +13,19 @@ The Logs Search App is a powerful tool designed for developers and system admini
    - Navigate through thousands of logs using **pagination**.
    - Adjust how many logs are displayed per page with a customizable slider.
 
-3. **Real-time Updates**
-   - Monitor real-time logs with options to **filter** and **refresh** as new logs come in.
-
-4. **Visualization** *(Planned)*
+3. **Visualization** *(Planned)*
    - Gain insights from logs with visual charts like bar graphs and pie charts.
    - **Geo-location visualization** of log origin using IP addresses.
 
-5. **Smart Search** *(Planned)*
+4. **Smart Search** *(Planned)*
    - Save frequently used search configurations with custom templates.
-   - **Keyword Highlighting** for quick scanning of critical log details.
 
-6. **Advanced Filtering**
+5. **Advanced Filtering**
    - Use filters for custom date ranges, log severity, and metadata to narrow down the logs you're interested in.
-   - **Sentiment analysis** on log messages to detect positive/negative trends *(Planned)*.
 
-7. **Export Logs**
+6. **Export Logs** *(Planned)*
    - Export search results in **CSV**, **JSON**, or **PDF** formats for offline use.
 
-8. **Custom Alerts** *(Planned)*
-   - Set **threshold alerts** to notify you via email or SMS when critical logs appear.
 
 
 ## Getting Started
