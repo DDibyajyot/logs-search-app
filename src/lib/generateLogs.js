@@ -57,7 +57,7 @@ async function insertLogsBatch(batchSize, totalLogs) {
 }
 
 
-insertLogsBatch(1000, 100004).then(() => {
+insertLogsBatch(1000, 1000004).then(() => {
   console.log("Finished inserting logs");
   process.exit(0);
 });
